@@ -9,5 +9,6 @@ Attendent of IIIT BHOPAL
 
 - ⚡ Fun fact: I am also a charcoal artist you can reat out to me for a Portrait on my instagram
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/webermayank)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-kumar-verma-17a5b72a2/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mynk_vrma/#)  [![Discord](https://img.shields.io/badge/Portfolio-000?logo=firefox-browser&logoColor=white)]([https://yourwebsite.com](https://discord.com/users/mayankdev_))
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/webermayank)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-kumar-verma-17a5b72a2/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mynk_vrma/#)  [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/mayankdev_)
+
 
