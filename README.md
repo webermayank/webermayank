@@ -1,5 +1,5 @@
 ## Hi there 👋
-##### I am Mayank Kumar Verma, a full stack web developer specialise in MERN stack and generative ai applications.
+### I am Mayank Kumar Verma, a full stack web developer specialise in MERN stack and generative ai applications.
 Attendent of IIIT BHOPAL 
 
 
