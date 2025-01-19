@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mayank Kumar Verma, a full stack web developer specialise in MERN stack and generative ai applications.<br>Attendent of IIIT BHOPAL<br><br>🔭 I’m currently working on OPENAI API based project<br>🌱 I’m currently learning Devops and JAVA DEVELOPMENT<br>🤔 I’m looking for help with ...<br>⚡ Fun fact: I am also a charcoal artist you can reat out to me for a Portrait on my instagram
+I am Mayank Kumar Verma, a full stack web developer specialise in MERN stack and generative ai applications.<br>Attendent of IIIT BHOPAL<br><br>🔭 I’m currently working on OPENAI API based project<br>🌱 I’m currently learning Devops and JAVA DEVELOPMENT<br>🤔 I’m looking for help with ...<br>⚡ Fun fact: I am also a charcoal artist you can reach out to me for a Portrait on my instagram
 
 
 ## 🌐 Socials:
