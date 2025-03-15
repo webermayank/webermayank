@@ -19,7 +19,7 @@ I am Mayank Kumar Verma, a full stack web developer specialise in MERN stack and
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webermayank&" alt="webermayank" /></p>
 -->
-<!--
+
 # 📊 GitHub Stats:
 <table?
   <tr>
